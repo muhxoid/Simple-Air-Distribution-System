@@ -148,7 +148,7 @@ public:
         cout << "==============================================\n";
 
         cout << "Passenger: " << passengerName1 << " " << passengerName2 << "\n";
-        cout << "Passenger: " << passportno << "\n";
+        cout << "Passport No: " << passportno << "\n";
         cout << "Email: " << email << "\n";
         cout << "Departure: " << storedFrom << "\n";
         cout << "Destination: " << storedTo << "\n";
