@@ -37,15 +37,15 @@ private:
     string passportno;
     string email;
 
-    string AMM() { return "AMM"; }
     string BGW() { return "BGW"; }
+    string BSR() { return "BSR"; }
+    string EBL() { return "EBL"; }
+    string NJF() { return "NJF"; }
+    string AMM() { return "AMM"; }
     string DXB() { return "DXB"; }
     string JED() { return "JED"; }
     string ISL() { return "ISL"; }
     string MHD() { return "MHD"; }
-    string BSR() { return "BSR"; }
-    string EBL() { return "EBL"; }
-    string NJF() { return "NJF"; }
 
 public:
 
