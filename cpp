@@ -153,7 +153,7 @@ public:
         cout << "Departure: " << storedFrom << "\n";
         cout << "Destination: " << storedTo << "\n";
         cout << "Date: " << storedDate << "\n";
-
+        if (travelType == 2) { cout << "Return Date: " << returnDate << "\n"; }
         cout << "==============================================\n";
         cout << "           Fly Beyond The Horizon             \n";
         cout << "==============================================\n"; }
@@ -256,7 +256,6 @@ public:
                 cout << "-> clear: Clear old passenger data" << endl;
                 cout << "-> exit: Exit the program" << endl; }
                 else { continue; }}}};
-
 
 int main() {
     login userLogin;
