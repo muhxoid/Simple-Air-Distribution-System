@@ -246,7 +246,7 @@ public:
                 cout << "-> type: Enter flight type (1: One-way, 2: Return)" << endl;
                 cout << "-> from: Enter departure airport" << endl;
                 cout << "-> to: Enter arrival airport" << endl;
-                cout << "-> show: Display flight details" << endl;
+                cout << "-> show: Show flight details" << endl;
                 cout << "-> name: Enter passenger name" << endl;
                 cout << "-> passport: Enter passenger passport" << endl;
                 cout << "-> email: Enter passenger email" << endl;
